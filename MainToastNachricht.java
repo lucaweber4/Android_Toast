@@ -53,6 +53,6 @@ public class MainToastNachricht extends AppCompatActivity {
 
     public void buttonClicked(View view)
     {
-        Toast.makeText(this,"JA!",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Spongebob Schwammkopf!",Toast.LENGTH_LONG).show();
     }
 }
